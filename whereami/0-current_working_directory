@@ -1,2 +1,2 @@
-curl --silent --fail --output /dev/null https://github.com/cisaac6013/validation/tree/main/whereami/0-current_working_directory && echo OK || echo FAILURE
+./0-current_working_directory
 
