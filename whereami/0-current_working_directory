@@ -1,3 +1,2 @@
 #!/bin/sh
 pwd
-* git update-index --chmod=+x
